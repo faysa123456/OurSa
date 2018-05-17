@@ -1,0 +1,1 @@
+SELECT * FROM sa.movie;
